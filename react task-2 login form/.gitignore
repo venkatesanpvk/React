@@ -1,0 +1,12 @@
+node_modules
+build
+.DS_Store
+.sass-cache
+*.map
+.idea
+*.log
+dist/
+__node_modules
+*.txt
+coverage/
+build

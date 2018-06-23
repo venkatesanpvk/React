@@ -1,0 +1,42 @@
+.app {
+  text-align: center;
+  font-family: 'Lato', Calibri, Arial, sans-serif;
+  background-image:url("/src/img/FLag_black-red_large.jpg");
+  background-color:#fff;
+  box-shadow:0px 3px 7px 5px rgba(0,0,0,0.2);
+  letter-spacing:1px;
+  width: 20%;
+  margin: 0px auto
+}
+input{
+	margin: 17px 0px;
+	border: 3px solid #ebe6e2;
+	border-radius:5px;
+}
+label{
+	color:#8c8c8c;
+}
+h1{
+	
+	font-size:15px;
+	font-weight:bold;
+	padding: 20px 0px;
+}
+mark{
+	background-color:transparent;
+	color: #ffb347;
+}
+button{
+	margin-top: 30px;
+	margin-bottom:20px;
+	border:2px solid #66ccff;
+	border-radius:5px;
+	color:#fff;
+	font-family:'Lato', Calibri, Arial, sans-serif; 
+	background-color:#80d4ff;
+	letter-spacing:1px;
+	font-size: 20px;
+	width: 30%;
+    height: 35px;
+}
+
